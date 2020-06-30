@@ -28,3 +28,4 @@ To build and deploy your app to `gh-pages` branch on the GitHub repo:
 ```bash
 yarn deploy
 ```
+https://fenagel.github.io/react-gifs/
