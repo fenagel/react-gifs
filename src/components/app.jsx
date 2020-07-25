@@ -42,6 +42,10 @@ class App extends Component {
         <div className="left-scene">
           <SearchBar searchFunction={this.search} />
           <div className="selected-gif">
+            <h1>
+              <span role="img" aria-label="point down">👆</span>
+              Search for a gif of your choice
+            </h1>
             <Gif id={this.state.selectedGifId} />
           </div>
         </div>
