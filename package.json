@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "giphy-api": "^2.0.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "16.2",
     "react-dom": "16.2"
   },
